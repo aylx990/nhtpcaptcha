@@ -13,9 +13,8 @@
     "ext-mbstring": "*",
     "ext-gd": "*",
     "topthink/framework": "^6.0.0",
-    "nahuo/nhtpcache": "^1.0"
   },
-  "homepage": "https://gitee.com/guangxi-nahuo-network/nhtpcaptcha",
+  "homepage": "https://github.com/aylx990/nhtpcaptcha",
   "autoload": {
     "psr-4": {
       "nahuo\\captcha\\": "src/"
